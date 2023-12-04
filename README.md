@@ -1,0 +1,1 @@
+# zulip-locale-de-binnen.i.gone
